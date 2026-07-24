@@ -1,17 +1,17 @@
-import Image from "next/image";
 import Link from "next/link";
+import Image from "next/image";
 import { ChevronRight } from "lucide-react";
 
 import Container from "../shared/container";
 
-export default function ServicesHero() {
+export default function ContactHero() {
   return (
     <section className="relative overflow-hidden bg-slate-900 py-24 md:py-32">
-      {/* Background Image */}
+      {/* Background */}
       <div className="absolute inset-0">
         <Image
           src="/herox.jpg"
-          alt="Our Services"
+          alt="Contact Medsulov Pharmaceutical"
           fill
           priority
           className="object-cover"
@@ -21,40 +21,36 @@ export default function ServicesHero() {
       {/* Overlay */}
       <div className="absolute inset-0 bg-slate-900/75" />
 
-      {/* Decorative Blur */}
+      {/* Decorative Blurs */}
       <div className="absolute -left-24 top-10 h-72 w-72 rounded-full bg-teal-500/20 blur-3xl" />
-      <div className="absolute -right-32 bottom-0 h-80 w-80 rounded-full bg-cyan-400/20 blur-3xl" />
+      <div className="absolute -right-24 bottom-0 h-80 w-80 rounded-full bg-cyan-400/20 blur-3xl" />
 
       <Container>
         <div className="relative z-10 max-w-3xl">
-          <div className="mb-6 flex flex-wrap items-center gap-2 text-sm text-slate-300">
-            <Link
-              href="/"
-              className="transition-colors hover:text-white"
-            >
+          <div className="mb-6 flex items-center gap-2 text-sm text-slate-300">
+            <Link href="/" className="transition-colors hover:text-white">
               Home
             </Link>
 
             <ChevronRight className="h-4 w-4" />
 
             <span className="font-medium text-white">
-              Services
+              Contact
             </span>
           </div>
 
           <span className="inline-block rounded-full bg-white/10 px-4 py-2 text-sm font-semibold uppercase tracking-[0.2em] text-teal-200 backdrop-blur">
-            Our Services
+            Get in Touch
           </span>
 
           <h1 className="mt-6 text-5xl font-bold leading-tight text-white md:text-6xl">
-            Reliable Pharmaceutical Distribution Services
+            We're Here to Help
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-200">
-            We provide dependable pharmaceutical distribution and wholesale
-            medicine supply services, helping hospitals, pharmacies, clinics,
-            and healthcare providers receive quality products with efficiency
-            and professionalism.
+            Whether you have questions about our pharmaceutical products,
+            distribution services, or partnership opportunities, our team is
+            ready to assist you. We look forward to hearing from you.
           </p>
         </div>
       </Container>
