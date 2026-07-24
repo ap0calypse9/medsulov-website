@@ -27,25 +27,30 @@ const contactDetails = [
   },
   {
     title: "Phone",
-    value: "Available Soon",
+   
+    value: <>
+     Mr. Tirtha Pratim Biswas
+     <br/>
+      +91 90624 63317
+      </>,
     icon: Phone,
   },
   {
     title: "Email",
-    value: "Available Soon",
+    value: " medsulovpharma@gmail.com",
     icon: Mail,
   },
-  {
-    title: "Business Hours",
-    value: (
-      <>
-        Monday – Saturday
-        <br />
-        9:00 AM – 6:00 PM
-      </>
-    ),
-    icon: Clock3,
-  },
+  // {
+  //   title: "Business Hours",
+  //   value: (
+  //     <>
+  //       Monday – Saturday
+  //       <br />
+  //       9:00 AM – 6:00 PM
+  //     </>
+  //   ),
+  //   icon: Clock3,
+  // },
 ];
 
 export default function ContactInfo() {
