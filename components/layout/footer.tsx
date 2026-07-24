@@ -107,11 +107,11 @@ export default function Footer() {
             <div className="mt-6 space-y-5">
               <div className="flex gap-3">
                 <MapPin className="mt-1 h-5 w-5 text-teal-400" />
-                <span>
-                  Kolkata, West Bengal
-                  <br />
-                  India
-                </span>
+                103/6 Raipur Road
+                Mailing Address: 99, Ganguly Bagan,
+                Ground Floor
+                Kolkata – 700047
+                West Bengal, India
               </div>
 
               <div className="flex gap-3">
@@ -125,12 +125,7 @@ export default function Footer() {
               </div>
 
               <div className="flex gap-3">
-                <Clock className="h-5 w-5 text-teal-400" />
-                <span>
-                  Mon – Sat
-                  <br />
-                  9:00 AM – 6:00 PM
-                </span>
+                
               </div>
             </div>
           </div>
@@ -143,7 +138,7 @@ export default function Footer() {
               All rights reserved.
             </p>
 
-           
+
           </div>
         </div>
       </Container>
