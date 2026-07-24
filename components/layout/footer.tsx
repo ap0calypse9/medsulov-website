@@ -52,7 +52,7 @@ export default function Footer() {
             </Link>
 
             <p className="mt-6 leading-7 text-slate-400">
-              Delivering quality pharmaceutical products through trusted
+              Delivering pharmaceutical products through trusted
               partnerships, dependable service, and timely distribution to
               healthcare providers.
             </p>
@@ -116,12 +116,12 @@ export default function Footer() {
 
               <div className="flex gap-3">
                 <Phone className="h-5 w-5 text-teal-400" />
-                <span>+91 XXXXX XXXXX</span>
+                <span>+91 90624 63317</span>
               </div>
 
               <div className="flex gap-3">
                 <Mail className="h-5 w-5 text-teal-400" />
-                <span>info@medsulov.com</span>
+                <span>medsulovpharma@gmail.com</span>
               </div>
 
               <div className="flex gap-3">

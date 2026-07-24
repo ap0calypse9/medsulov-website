@@ -14,12 +14,12 @@ export default function AboutPreview() {
             </span>
 
             <h2 className="mt-3 text-4xl font-bold text-slate-900">
-              Committed to Quality Healthcare Distribution
+              Committed to  Healthcare Distribution
             </h2>
 
             <p className="mt-6 text-lg leading-8 text-slate-600">
               Medsulov Pharmaceutical Pvt. Ltd. is dedicated to supplying
-              high-quality pharmaceutical products through a reliable and
+              pharmaceutical products through a reliable and
               efficient distribution network. We strive to build long-term
               partnerships with healthcare professionals by ensuring timely
               delivery and trusted service.
@@ -48,7 +48,7 @@ export default function AboutPreview() {
                 Trusted Healthcare Partner
               </p>
               <p className="mt-1 text-sm text-slate-600">
-                Quality • Reliability • Timely Delivery
+                Support • Reliability • Timely Delivery
               </p>
             </div>
           </div>

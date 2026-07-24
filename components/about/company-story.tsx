@@ -4,7 +4,7 @@ import { CheckCircle2 } from "lucide-react";
 import Container from "../shared/container";
 
 const highlights = [
-  "Quality pharmaceutical products from trusted manufacturers.",
+  "Pharmaceutical products from trusted manufacturers.",
   "Reliable distribution with timely deliveries.",
   "Strong commitment to ethical business practices.",
   "Dedicated support for hospitals, pharmacies, and healthcare providers.",
@@ -27,12 +27,7 @@ export default function CompanyStory() {
               />
             </div>
 
-            <div className="absolute -bottom-6 -right-6 hidden rounded-2xl bg-teal-600 px-8 py-6 text-white shadow-xl md:block">
-              <p className="text-3xl font-bold">Quality</p>
-              <p className="mt-1 text-sm uppercase tracking-widest text-teal-100">
-                You Can Trust
-              </p>
-            </div>
+          
           </div>
 
           {/* Content */}
@@ -47,7 +42,7 @@ export default function CompanyStory() {
 
             <p className="mt-6 leading-8 text-slate-600">
               Medsulov Pharmaceutical Pvt. Ltd. is committed to supplying
-              high-quality pharmaceutical products that support better healthcare
+              pharmaceutical products that support better healthcare
               outcomes. We work closely with trusted manufacturers and healthcare
               professionals to ensure dependable product availability and timely
               distribution.
@@ -55,7 +50,7 @@ export default function CompanyStory() {
 
             <p className="mt-6 leading-8 text-slate-600">
               Our focus is on building long-term relationships through integrity,
-              consistent service, and an unwavering commitment to quality. Every
+              consistent service, and an unwavering commitment to delivering services. Every
               product we deliver reflects our dedication to supporting hospitals,
               pharmacies, clinics, and healthcare providers with confidence.
             </p>

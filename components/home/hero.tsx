@@ -11,12 +11,12 @@ export default function Hero() {
          
 
           <h1 className="mt-6 text-5xl font-bold leading-tight text-slate-900 lg:text-6xl">
-            Delivering Quality Medicines with Trust & Reliability
+            Delivering  Medicines with Trust & Reliability
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600">
             Medsulov Pharmaceutical Pvt. Ltd. specializes in wholesale
-            distribution of high-quality pharmaceutical products to hospitals,
+            distribution of  pharmaceutical products to hospitals,
             pharmacies, clinics, and healthcare providers across the region.
           </p>
 
@@ -39,7 +39,7 @@ export default function Hero() {
           <div className="mt-12 flex flex-wrap gap-8">
             <div>
               <h3 className="text-3xl font-bold text-teal-700">100%</h3>
-              <p className="text-slate-600">Quality Assured</p>
+              <p className="text-slate-600">Trust</p>
             </div>
 
             <div>

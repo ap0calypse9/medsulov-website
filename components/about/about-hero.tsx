@@ -47,12 +47,12 @@ export default function AboutHero() {
           </span>
 
           <h1 className="mt-6 text-5xl font-bold leading-tight text-white md:text-6xl">
-            Committed to Quality Healthcare Solutions
+            Committed to  Healthcare Solutions
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-200">
             Medsulov Pharmaceutical Pvt. Ltd. is dedicated to delivering
-            high-quality pharmaceutical products through dependable service,
+            pharmaceutical products through dependable service,
             ethical business practices, and a strong commitment to improving
             healthcare outcomes.
           </p>

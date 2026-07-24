@@ -8,9 +8,9 @@ import {
 
 const reasons = [
   {
-    title: "Quality Assured",
+    title: "Worth your Time",
     description:
-      "Every product we distribute comes from trusted manufacturers and meets high quality standards.",
+      "Every product we distribute comes from trusted manufacturers.",
     icon: ShieldCheck,
   },
   {
@@ -47,7 +47,7 @@ export default function WhyChooseUs() {
           </h2>
 
           <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-600">
-            We are committed to delivering pharmaceutical products with quality,
+            We are committed to delivering pharmaceutical products with 
             consistency, and professional service that healthcare providers can
             rely on.
           </p>

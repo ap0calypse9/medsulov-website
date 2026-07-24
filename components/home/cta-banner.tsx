@@ -23,7 +23,7 @@ export default function CtaBanner() {
 
             <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-teal-50">
               Medsulov Pharmaceutical Pvt. Ltd. is committed to delivering
-              quality pharmaceutical products with dependable service,
+              pharmaceutical products with dependable service,
               professional support, and timely distribution to healthcare
               providers across the region.
             </p>

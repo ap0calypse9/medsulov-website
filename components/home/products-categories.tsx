@@ -77,7 +77,7 @@ export default function ProductCategories() {
           <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-600">
             We supply an extensive portfolio of pharmaceutical products to
             hospitals, pharmacies, clinics, and healthcare providers with a
-            commitment to quality, reliability, and timely distribution.
+            commitment to  reliability, and timely distribution.
           </p>
         </div>
 
