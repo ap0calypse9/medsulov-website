@@ -1,5 +1,6 @@
 import "./globals.css";
 import Navbar from "@/components/layout/navbar";
+import Footer from "@/components/layout/footer";
 
 export const metadata = {
   title: "Medsulov Pharmaceutical Pvt. Ltd.",
@@ -17,6 +18,7 @@ export default function RootLayout({
       <body className="bg-white text-slate-800 antialiased">
         <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );

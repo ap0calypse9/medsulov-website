@@ -8,9 +8,7 @@ export default function Hero() {
       <Container className="grid min-h-[calc(100vh-80px)] items-center gap-16 py-20 lg:grid-cols-2">
         {/* Left */}
         <div>
-          <span className="inline-flex rounded-full bg-teal-100 px-4 py-2 text-sm font-semibold text-teal-700">
-            Trusted Pharmaceutical Distributor
-          </span>
+         
 
           <h1 className="mt-6 text-5xl font-bold leading-tight text-slate-900 lg:text-6xl">
             Delivering Quality Medicines with Trust & Reliability
