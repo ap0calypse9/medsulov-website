@@ -60,7 +60,7 @@ export default function Hero() {
           <div className="absolute -right-10 bottom-10 h-56 w-56 rounded-full bg-cyan-100 blur-3xl" />
 
           <Image
-            src="/heroo.jpg"
+            src="/newhero.jpeg"
             alt="Pharmaceutical Distribution"
             width={700}
             height={500}
